@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class SmoothFollow : MonoBehaviour
 {
+    // This is a new message to test GitHub upload
     public float xMargin = 1.0f;
     public float yMargin = 1.0f;
 
