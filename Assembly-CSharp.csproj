@@ -60,6 +60,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\CharacterMovement.cs" />
     <Compile Include="Assets\Scripts\SmoothFollow.cs" />
+    <Compile Include="Assets\Scripts\KnifeDestruction.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
